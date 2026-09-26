@@ -2,7 +2,8 @@
 soroban/target
 .contract-ids.json
 **/*.rs.bk
-.env
 .DS_Store
 issue.md
 pr.md
+config.bat
+node_modules
